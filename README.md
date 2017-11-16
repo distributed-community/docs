@@ -8,9 +8,9 @@ Welcome to the [@distributed](https://t.me/distributed) wiki!
 * [English speaking telegram group](https://t.me/joinchat/AAAAAD_Rz-YN11ddwxOkDQ)
 * [Mesh networking chat](https://t.me/meshnet)
 
-## [English docs and courses](Docs)
-## [Russian docs](Russian_docs)
-## [Vacancies](Vacancies)
+## [English docs and courses](https://github.com/Foxcool/distributed_conf/blob/test/Docs.md)
+## [Russian docs](https://github.com/Foxcool/distributed_conf/blob/test/Russian_docs.md)
+## [Vacancies](https://github.com/Foxcool/distributed_conf/blob/test/Vacancies.md)
 
 
 
