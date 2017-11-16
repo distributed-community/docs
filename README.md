@@ -8,16 +8,18 @@ Welcome to the [@distributed](https://t.me/distributed) wiki!
 * [English speaking telegram group](https://t.me/joinchat/AAAAAD_Rz-YN11ddwxOkDQ)
 * [Mesh networking chat](https://t.me/meshnet)
 
-## [English docs and courses](https://github.com/Foxcool/distributed_conf/blob/master/Docs.md)
-## [Russian docs](https://github.com/Foxcool/distributed_conf/blob/master/Russian_docs.md)
-## [Vacancies](https://github.com/Foxcool/distributed_conf/blob/master/Vacancies.md)
 
+# Docs and courses
+* [English](https://github.com/Foxcool/distributed_conf/blob/master/Docs.md)
+* [Russian](https://github.com/Foxcool/distributed_conf/blob/master/Russian_docs.md)
 
+# Other
+* [Vacancies](https://github.com/Foxcool/distributed_conf/blob/master/Vacancies.md)
 
 # Perspective and interesting projects
 
-## List: [Awesome Decentralized P2P](https://github.com/steve-vincent/awesome-decentralized)
-## List: [Awesome Decentralized Web](https://github.com/gdamdam/awesome-decentralized-web)
+* List: [Awesome Decentralized P2P](https://github.com/steve-vincent/awesome-decentralized)
+* List: [Awesome Decentralized Web](https://github.com/gdamdam/awesome-decentralized-web)
 
 
 # Russian links
