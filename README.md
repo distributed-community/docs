@@ -4,36 +4,33 @@ Welcome to the [@distributed](https://t.me/distributed) wiki!
 
 # Links
 
-## [Russian speaking telegram group](https://t.me/distributed)
-## [English speaking telegram group](https://t.me/joinchat/AAAAAD_Rz-YN11ddwxOkDQ)
+* [Russian speaking telegram group](https://t.me/distributed)
+* [English speaking telegram group](https://t.me/joinchat/AAAAAD_Rz-YN11ddwxOkDQ)
+* [Mesh networking chat](https://t.me/meshnet)
 
-# [English docs and courses](Docs)
+## [English docs and courses](Docs)
+## [Russian docs](Russian_docs)
+## [Vacancies](Vacancies)
 
-# [Russian docs](Russian_docs)
 
-# [Vacancies](Vacancies)
 
 # Perspective and interesting projects
 
 ## List: [Awesome Decentralized P2P](https://github.com/steve-vincent/awesome-decentralized)
 ## List: [Awesome Decentralized Web](https://github.com/gdamdam/awesome-decentralized-web)
 
-## CJDNS
 
-https://github.com/cjdelisle/cjdns
+# Russian links
 
-https://hyperboria.net/
+* [Торговля криптовалютами](https://github.com/Foxcool/RemoteWorkersAndFreelancers/wiki/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B)
+* [Блог](http://darkfox.info)
+* [Telegram канал](https://t.me/darkfox_info)
+* [Bitcoin trade telegram bot](http://telegram.me/BTC_CHANGE_BOT?start=846711)
 
-Cjdns implements an encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. This provides near-zero-configuration networking, and prevents many of the security and scalability issues that plague existing networks.
+## Telegram чаты
 
-## IPFS
-
-https://ipfs.io/
-
-https://github.com/ipfs/ipfs
-
-IPFS (the InterPlanetary File System) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.
-
-IPFS is a distributed file system that seeks to connect all computing devices with the same system of files. In some ways, this is similar to the original aims of the Web, but IPFS is actually more similar to a single bittorrent swarm exchanging git objects. You can read more about its origins in the paper IPFS - Content Addressed, Versioned, P2P File System.
-
-IPFS is becoming a new major subsystem of the internet. If built right, it could complement or replace HTTP. It could complement or replace even more. It sounds crazy. It is crazy.
+* [Remote workers and freelancers](https://telegram.me/ru_freelancers)
+* [Группа для интересующихся инвестированием и трейдингом (как крипто, так и традиционные рынки)](https://t.me/ru_traders)
+* [Группа для интересующихся инвестированием в криптоинструменты (валюты, ICO и т.д.)](https://t.me/cryptoinvest)
+* [Группа для интересующихся распределенными системами](https://t.me/distributed)
+* [Группа по философии](https://t.me/ru_philosophy)
