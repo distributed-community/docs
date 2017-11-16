@@ -1,4 +1,5 @@
 ## [The Blockchain Explained to Web Developers](https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html)
+## [Stanford. CS 251: Bitcoin and Cryptocurrencies](https://crypto.stanford.edu/cs251/)
 ## [Coursera: Cryptography I](https://www.coursera.org/learn/crypto)
 ## [Coursera: Cryptography II](https://www.coursera.org/learn/crypto2)
 ## [Solidity](https://solidity.readthedocs.io/en/develop/)
