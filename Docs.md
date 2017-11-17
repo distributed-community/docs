@@ -6,6 +6,8 @@
 * [YouTube: Blockchain at Berkeley](https://www.youtube.com/channel/UC5sgoRfoSp3jeX4DEqKLwKg)
 ## Stanford
 * [Stanford. CS 251: Bitcoin and Cryptocurrencies](https://crypto.stanford.edu/cs251/)
+## Berkeley
+* [Blockchain at Berkeley. Introduction to Cryptocurrency DeCal Fall 2016](https://blockchain.berkeley.edu/decal/fa16/)
 ## Others
 * [Solidity](https://solidity.readthedocs.io/en/develop/)
 * [The Blockchain Explained to Web Developers](https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html)
