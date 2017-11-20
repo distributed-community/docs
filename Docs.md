@@ -8,6 +8,8 @@
 * [Stanford. CS 251: Bitcoin and Cryptocurrencies](https://crypto.stanford.edu/cs251/)
 ## Berkeley
 * [Blockchain at Berkeley. Introduction to Cryptocurrency DeCal Fall 2016](https://blockchain.berkeley.edu/decal/fa16/)
+## ETH Zurich
+* [Principles of Distributed Computing](https://disco.ethz.ch/courses/fs17/podc/)
 ## Others
 * [Solidity](https://solidity.readthedocs.io/en/develop/)
 * [The Blockchain Explained to Web Developers](https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html)
