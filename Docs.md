@@ -17,5 +17,8 @@
 * [Truffle is the most popular development framework for Ethereum. DOCS & TUTORS](http://truffleframework.com/)
 * [Jakob Jenkov tutorials: P2P](http://tutorials.jenkov.com/p2p/index.html)
 
+## Overviews and Systematisation of Knowledge articles
+* [Consensus in the Age of Blockchains](https://arxiv.org/abs/1711.03936)
+
 # Another lists
 * [The Bitcoin Pub’s EPIC Bitcoin Resource Repository](https://thebitcoin.pub/t/wip-epic-bitcoin-resource-list-rocket-bomb-fire/6811?u=john)
