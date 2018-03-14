@@ -15,6 +15,7 @@ Welcome to the [@distributed](https://t.me/distributed) wiki!
 
 # Other
 * [Vacancies](https://github.com/Foxcool/distributed_conf/blob/master/Vacancies.md)
+* [Zero Knowledge podcast](http://www.zeroknowledge.fm/)
 
 # Perspective and interesting projects
 
