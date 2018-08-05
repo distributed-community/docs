@@ -13,3 +13,13 @@
 * Пишем умный контракт на Solidity. Часть 1 — установка и «Hello world»
 ### [Механизм работы Monero и Bitcoin простыми словами](https://xmr.ru/threads/71/)
 ### [Mesh-роутер — это просто](https://habrahabr.ru/post/277721/)
+
+### Blockchain на Go (подборка от @Cybercommunist)
+
+* [Прототип](https://habr.com/post/348672/)
+* [Proof-of-Work](https://habr.com/post/350804/)
+* [Постоянная память и интерфейс командной строки](https://habr.com/post/351296/)
+* [Транзакции](https://habr.com/post/351752/)
+* [Адреса](https://habr.com/post/351834/)
+* [написание блокчейн за 200 строчек кода](https://habr.com/post/347930/)
+* [Криптография proof of stake](https://habr.com/post/265561/)
