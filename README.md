@@ -10,11 +10,11 @@ Welcome to the [@distributed](https://t.me/distributed) wiki!
 
 
 # Docs and courses
-* [English](https://github.com/Foxcool/distributed_conf/blob/master/Docs.md)
-* [Russian](https://github.com/Foxcool/distributed_conf/blob/master/Russian_docs.md)
+* [English](https://github.com/distributed-community/docs/blob/master/Docs.md)
+* [Russian](https://github.com/distributed-community/docs/blob/master/Russian_docs.md)
 
 # Other
-* [Vacancies](https://github.com/Foxcool/distributed_conf/blob/master/Vacancies.md)
+* [Vacancies](https://github.com/distributed-community/docs/blob/master/Vacancies.md)
 * [Zero Knowledge podcast](http://www.zeroknowledge.fm/)
 
 # Perspective and interesting projects
