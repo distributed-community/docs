@@ -5,16 +5,16 @@ Welcome to the [@distributed](https://t.me/distributed) wiki!
 # Links
 
 * [Russian speaking telegram group](https://t.me/distributed)
-* [English speaking telegram group](https://t.me/joinchat/AAAAAD_Rz-YN11ddwxOkDQ)
+* [English speaking telegram group](https://t.me/idistributed)
 * [Mesh networking chat](https://t.me/meshnet)
 
 
 # Docs and courses
-* [English](https://github.com/Foxcool/distributed_conf/blob/master/Docs.md)
-* [Russian](https://github.com/Foxcool/distributed_conf/blob/master/Russian_docs.md)
+* [English](https://github.com/distributed-community/docs/blob/master/Docs.md)
+* [Russian](https://github.com/distributed-community/docs/blob/master/Russian_docs.md)
 
 # Other
-* [Vacancies](https://github.com/Foxcool/distributed_conf/blob/master/Vacancies.md)
+* [Vacancies](https://github.com/distributed-community/docs/blob/master/Vacancies.md)
 * [Zero Knowledge podcast](http://www.zeroknowledge.fm/)
 
 # Perspective and interesting projects
