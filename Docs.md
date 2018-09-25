@@ -16,6 +16,7 @@
 * [learn me a bitcoin](http://learnmeabitcoin.com/)
 * [Truffle is the most popular development framework for Ethereum. DOCS & TUTORS](http://truffleframework.com/)
 * [Jakob Jenkov tutorials: P2P](http://tutorials.jenkov.com/p2p/index.html)
+* [Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
 
 ## Overviews and Systematisation of Knowledge articles
 * [Consensus in the Age of Blockchains](https://arxiv.org/abs/1711.03936)
