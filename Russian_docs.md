@@ -23,3 +23,5 @@
 * [Адреса](https://habr.com/post/351834/)
 * [написание блокчейн за 200 строчек кода](https://habr.com/post/347930/)
 * [Криптография proof of stake](https://habr.com/post/265561/)
+
+### [IPFS - межпланетная файловая система и как ее готовить | Леченко Антон](https://www.youtube.com/watch?v=YXQvGidv0u4)
